@@ -1,6 +1,4 @@
-# Read me!
-
-## Hey Team,
+# Hey Team,
 
 This is the repository for a laptime simulation that I'm developing for [Lafayette Motorsports](https://sites.lafayette.edu/motorsports/) and for other [Formula Hybrid Teams](https://www.formula-hybrid.org/). 
 
