@@ -1,7 +1,4 @@
-# Laptime_Simulation_ME391
- This is a repo for laptime simulation project.
-
-## Project Description:
+# Project Description:
 
 This project is to develop a lap time simulation tool to be used for the Lafayette Motorsports project. The lap time simulation will allow for Lafayette Motorsports to input GPS data for a given track and relevant car parameters and have returned their projected lap time around the track for varying driver styles. The project is split into three tentative phases (w/an additional phase 0 for initial administrative work):
 
