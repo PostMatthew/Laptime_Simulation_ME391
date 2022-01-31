@@ -2,7 +2,7 @@
 
 ## Hey Team,
 
-This is the repository for a laptime simulation that I'm developing for Lafayette Motorsports and for other Formula Hybrid Teams. 
+This is the repository for a laptime simulation that I'm developing for [Lafayette Motorsports](https://sites.lafayette.edu/motorsports/) and for other [Formula Hybrid Teams](https://www.formula-hybrid.org/). 
 
 This repository serves to host the various scripts/notebooks/data files used in the development of a design tool to allow for Formula Hybrid teams to be able to predict their lap times around a chosen track. This project is an indepent study course advised by Professor Alexander Brown ([Check out his Github!](https://github.com/Alexanderallenbrown?tab=repositories)).
 
